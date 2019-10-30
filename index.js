@@ -1,5 +1,5 @@
 const HTTPS_PORT = 3000;
-const HTTP2_PORT = 3001;
+const HTTP2_PORT = 443;
 
 /**
  * create a normal https server

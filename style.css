@@ -1,0 +1,15 @@
+body {
+  height: 100vh;
+  background-color: #bcd8f5;
+  text-align: center;
+}
+
+h1 {
+  color: #111422;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
